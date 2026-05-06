@@ -12,8 +12,8 @@ SERVER_URL = f"{BASE_URL}/add_record"
 
 STATION_ID = "69ca124850282f6c40a4ea22"
 
-USERNAME = "dada@dada.cz"
-PASSWORD = "dada"
+USERNAME = "*"
+PASSWORD = "*"
 
 RESET_INTERVAL = 60
 TOKEN_LIFETIME = 60 * 60 * 1.5
