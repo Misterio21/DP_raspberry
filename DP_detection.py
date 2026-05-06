@@ -5,7 +5,7 @@ from datetime import datetime
 from ultralytics import YOLO
 
 # Konfigurace
-BASE_URL = "http://bifur.nti.tul.cz:3000"
+BASE_URL = "http://[2001:718:1c01:21:250:56ff:fe8e:6246]/:3000"
 
 LOGIN_URL = f"{BASE_URL}/login"
 SERVER_URL = f"{BASE_URL}/add_record"
